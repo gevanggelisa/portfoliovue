@@ -80,21 +80,21 @@ export default {
       {
         title: "Text Summarization",
         description:
-          "This application can generate the title from sequence of sentences.",
+          "This application can generate the title from sequence of sentences. I'm using Python and Google Colabs.",
         icon: "mdi-github",
         src: "https://github.com/gevanggelisa/pba",
       },
       {
         title: "Testing Website",
         description:
-          "There are 10 functions selected and then test each function using Selenium with Cucumber and Robot Framework",
+          "There are 10 functions selected and then test each function using Selenium with Cucumber and Robot Framework.",
         icon: "mdi-github",
         src: "https://github.com/gevanggelisa/testing",
       },
       {
         title: "Word Correction",
         description:
-          "This project is changing the word from a database so it can match to KBBI.",
+          "This project is changing the word from a database so it can match to KBBI using Python and Google Colabs. ",
         icon: "mdi-github",
         src: "https://github.com/gevanggelisa/word-correction",
       },
