@@ -75,7 +75,7 @@ export default {
   },
   data: () => ({
     textprofile:
-      "Fresh grad of bachelor informatics from Institute Del. Graduate can't stop me from learning something new. I have such an ordinary live, having meals 3 times a day or sometimes getting cold due to climate changing. I am '98 line and hankful that I'm still alive today. Right now, I'm developing my skills and looking for a job. I interested to join Front End Developer team or Quality Assurance team:)",
+       "I'm Frontend Developer, before I was a Fullstack Develover. Graduated from Institute Del, around 3 years ago. I love reading, I love something dynamic, get out from comfort zone. Cannot wait to see you around, grow together with me:)",
     projects: [
       {
         title: "Text Summarization",
@@ -104,6 +104,13 @@ export default {
           "This project during my internship about 5 months, where I should build responsive website tanamduit using Wordpress. I work onsite for 3 months while the other 2 months remotely.",
         icon: "mdi-web",
         src: "https://id.tanamduit.com/",
+      },
+      {
+        title: "Professional Project",
+        description:
+          "Let's talk about this through my linkedin;)",
+        icon: "mdi-linkedin",
+        src: "https://linkedin.com/in/grace-e-65b42610a",
       },
     ],
     contacts: [
